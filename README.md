@@ -34,7 +34,4 @@ To enhance decision-making, I addressed several business requirements using insi
 🔸 All Metrics by Outlet Type (📊 Matrix Card)
 📌 Objective: Provide a comprehensive view of key metrics (Total Sales, Average Sales, Number of Items, and Average Rating) broken down by outlet type.
 
-This project was a great opportunity to refine my Power BI skills and gain a deeper understanding of sales trends on Blinkit. Looking forward to more data-driven projects! 🚀
-Created with insights from Swapnjeet S  
 
-Would love to hear your thoughts! Drop your feedback below. 👇 #PowerBI #DataAnalytics #Blinkit #SalesAnalysis #Dashboard
